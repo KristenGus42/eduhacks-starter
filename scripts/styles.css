@@ -1,0 +1,16 @@
+/*Styles the output box*/
+#output {
+  width : 325px;
+  height: 350px;
+  background-color: lavender;
+  overflow: scroll;
+  padding: 30px;
+}
+
+/*Centers and aligns output box and form*/
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

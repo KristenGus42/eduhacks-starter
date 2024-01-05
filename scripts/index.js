@@ -7,7 +7,7 @@
    * Sets up interactive portion of the window
    */
   function init() {
-    //TODO: Set up interactivity of website
+    document.getElementById("chat-btn").addEventListener("click", displayUser);
   }
 
   /**

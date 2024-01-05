@@ -18,6 +18,7 @@ const openai = new OpenAI({apiKey: KEY});
  */
 export async function chat(query) {
   // TODO: Create code that compiles past responses and generates a new one by accessing information from OpenAI
+
 }
 
 /**

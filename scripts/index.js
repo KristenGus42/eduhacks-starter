@@ -20,7 +20,7 @@
   /**
    * Requests a response from our own backend
    */
-  async function fetchResponse() {
+  async function fetchResponse(input) {
     // TODO: Write the code to fetch information from node server
   }
 
